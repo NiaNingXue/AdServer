@@ -1,0 +1,79 @@
+{
+  "AdViewId": [
+    {
+      "fb_id": "1764932893775288_1765825563686021",
+      "cache_time": "1200",
+      "du_id": "20388",
+      "click_to_reload": "true",
+      "describe": "a_main_theme_middle"
+    },
+    {
+      "fb_id": "1764932893775288_1765825700352674",
+      "cache_time": "1200",
+      "du_id": "20389",
+      "click_to_reload": "true",
+      "describe": "a_main_theme_bottom"
+    },
+    {
+      "fb_id": "1764932893775288_1765825967019314",
+      "cache_time": "1200",
+      "du_id": "20390",
+      "click_to_reload": "true",
+      "describe": "a_main_sticker_middle"
+    },
+    {
+      "fb_id": "1764932893775288_1765826050352639",
+      "cache_time": "600",
+      "du_id": "20391",
+      "click_to_reload": "true",
+      "describe": "a_main_top_gift"
+    },
+    {
+      "fb_id": "1764932893775288_1765826140352630",
+      "cache_time": "1200",
+      "du_id": "20392",
+      "click_to_reload": "true",
+      "describe": "a_diy_theme_bottom"
+    },
+    {
+      "fb_id": "1764932893775288_1765826203685957",
+      "cache_time": "1200",
+      "du_id": "20393",
+      "click_to_reload": "true",
+      "describe": "a_LockScreen"
+    },
+    {
+      "fb_id": "1764932893775288_1765831653685412",
+      "cache_time": "600",
+      "du_id": "20394",
+      "click_to_reload": "true",
+      "describe": "a_keyboard_gift"
+    },
+    {
+      "fb_id": "1764932893775288_1765826323685945",
+      "cache_time": "1200",
+      "du_id": "20395",
+      "describe": "a_keyboard_emoji"
+    },
+    {
+      "fb_id": "1764932893775288_1765826467019264",
+      "cache_time": "1200",
+      "du_id": "20396",
+      "click_to_reload": "true",
+      "describe": "a_keyboard_item_lucky"
+    },
+    {
+      "fb_id": "1764932893775288_1765826580352586",
+      "cache_time": "1200",
+      "du_id": "20397",
+      "click_to_reload": "true",
+      "describe": "a_theme_detail_banner"
+    },
+    {
+      "fb_id": "1764932893775288_1765826647019246",
+      "cache_time":"8000",
+      "describe": "interstitial"
+    }
+  ],
+  "updateCacheTime": "14400"
+}
