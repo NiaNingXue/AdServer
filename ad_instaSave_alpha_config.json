@@ -1,28 +1,28 @@
 [
   {
     "id": "613174498889486_613187575554845",
-    "cacheTime":1800000 ,
-    "specialCacheTime": 1800000
+    "cacheTime":1200000 ,
+    "specialCacheTime": 1200000
   },
   {
     "id": "613174498889486_613188752221394",
-    "cacheTime": 2400000,
-    "specialCacheTime": 2400000
+    "cacheTime": 1800000,
+    "specialCacheTime": 1800000
   },
   {
     "id": "613174498889486_613188412221428",
-    "cacheTime": 1800000,
-    "specialCacheTime": 1800000
+    "cacheTime": 1200000,
+    "specialCacheTime": 1200000
   },
   {
     "id": "613174498889486_613189072221362",
-    "cacheTime": 1800000,
-    "specialCacheTime": 1800000
+    "cacheTime": 1200000,
+    "specialCacheTime": 1200000
   },
   {
     "id": "613174498889486_613189358888000",
-    "cacheTime": 1800000,
-    "specialCacheTime": 1800000
+    "cacheTime": 1200000,
+    "specialCacheTime": 1200000
   },
   {
     "id": "613174498889486_613188098888126",
@@ -31,17 +31,17 @@
   },
   {
     "id": "613174498889486_613189792221290",
-    "cacheTime": 1800000,
-    "specialCacheTime": 1800000
+    "cacheTime": 1200000,
+    "specialCacheTime": 1200000
   },
   {
     "id": "613174498889486_613190082221261",
-    "cacheTime": 1800000,
-    "specialCacheTime": 1800000
+    "cacheTime": 1200000,
+    "specialCacheTime": 1200000
   },
   {
     "id": "613174498889486_613190428887893",
-    "cacheTime": 1800000,
-    "specialCacheTime": 1800000
+    "cacheTime": 1200000,
+    "specialCacheTime": 1200000
   }
 ]
