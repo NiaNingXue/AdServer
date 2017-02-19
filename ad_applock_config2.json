@@ -16,7 +16,7 @@
   {
     "name": "home",
     "id": "363439497322073_368646253468064",
-    "cacheTime": 900000,
+    "cacheTime": 1200000,
     "rewardTime": 0,
     "bufferTime": 0
   },
@@ -52,6 +52,13 @@
     "name": "lock_screen",
     "id": "363439497322073_388964228102933",
     "cacheTime": 3600000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "theme_item",
+    "id": "363439497322073_410000072666015",
+    "cacheTime": 1200000,
     "rewardTime": 0,
     "bufferTime": 0
   }
