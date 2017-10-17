@@ -1,0 +1,74 @@
+[
+  {
+    "name": "lockApps",
+    "id": "363439497322073_388965154769507",
+    "duAdId":142540,
+    "cacheTime": 3600000,
+    "rewardTime": 0,
+    "bufferTime": 3600000
+  },
+  {
+    "name": "interstitial",
+    "id": "363439497322073_363460920653264",
+    "duAdId":14254622,
+    "cacheTime": 10800000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "home",
+    "id": "363439497322073_368646253468064",
+    "duAdId":142541,
+    "cacheTime": 900000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "home_banner",
+    "id": "363439497322073_371894566476566",
+    "duAdId":0,
+    "cacheTime": 1200000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "theme_detail_banner",
+    "id": "363439497322073_374980412834648",
+    "duAdId":0,
+    "cacheTime": 1200000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "activity_clean",
+    "id": "363439497322073_380110202321669",
+    "duAdId":142545,
+    "cacheTime": 300000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "home_bottom_action",
+    "id": "363439497322073_380116215654401",
+    "duAdId":0,
+    "cacheTime": 1200000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "lock_screen",
+    "id": "363439497322073_388964228102933",
+    "duAdId":142544,
+    "cacheTime": 3600000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "theme_item",
+    "id": "363439497322073_410000072666015",
+    "duAdId":0,
+    "cacheTime": 1200000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  }
+]
