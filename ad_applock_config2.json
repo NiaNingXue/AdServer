@@ -2,9 +2,9 @@
   {
     "name": "lockApps",
     "id": "363439497322073_388965154769507",
-    "cacheTime": 3600000,
+    "cacheTime": 3000000,
     "rewardTime": 0,
-    "bufferTime": 600000
+    "bufferTime": 7200000
   },
   {
     "name": "interstitial",
