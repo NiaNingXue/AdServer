@@ -1,0 +1,42 @@
+[
+  {
+    "name": "lockApps",
+    "id": "a_lock_apps",
+    "duAdId":0,
+    "cacheTime": 1800000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "home",
+    "id": "a_home",
+    "duAdId":0,
+    "cacheTime": 60000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "theme_detail_banner",
+    "id": "a_theme_detail",
+    "duAdId":0,
+    "cacheTime": 60000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "activity_clean",
+    "id": "a_clean",
+    "duAdId":0,
+    "cacheTime": 300000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  },
+  {
+    "name": "lock_screen",
+    "id": "a_lockscreen",
+    "duAdId":0,
+    "cacheTime": 1800000,
+    "rewardTime": 0,
+    "bufferTime": 0
+  }
+]
