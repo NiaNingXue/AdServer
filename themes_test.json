@@ -1,0 +1,381 @@
+[  {
+    "name": "Meteor",
+    "id": 37,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.video.test",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_36_preview.webp",
+    "isNew": true,
+	"isVideo": true
+  },
+  {
+    "name": "WorldCup",
+    "id": 36,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.world.cup",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_36_preview.webp",
+    "isNew": true,
+	"isVideo": false
+  },
+  {
+    "name": "PinEmoji",
+    "id": 35,
+    "themeType": 100,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.pin.emoji",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_35_preview.webp",
+    "isNew": true,
+	"isVideo": false
+  },
+  {
+    "name": "Balloon",
+    "id": 34,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.balloon",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_34_preview.webp",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "StarrySky",
+    "id": 33,
+    "themeType": 100,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.starry.sky",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_33_preview.webp",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "God Girl",
+    "id": 32,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.god.girl",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_32_preview.webp",
+    "isNew": true,
+	"isVideo": false
+  },
+  {
+    "name": "Girl",
+    "id": 30,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.girl",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_30_preview.webp",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Car3",
+    "id": 29,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.car.thrid",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_29_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Plane",
+    "id": 28,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.plane",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_28_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Car2",
+    "id": 27,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.car.second",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_27_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Car",
+    "id": 26,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.car",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_26_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Skull",
+    "id": 20,
+    "themeType": 100,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.skull",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_20_preview.jpg",
+    "isNew": true,
+	"isVideo": false
+  },
+  {
+    "name": "Valentines",
+    "id": 15,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.valentines",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_15_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Night sky",
+    "id": 4,
+    "themeType": 200,
+    "resType": 1000,
+    "packageName": "",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_4_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Steel mesh",
+    "id": 3,
+    "themeType": 100,
+    "resType": 1000,
+    "packageName": "",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_3_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "SkullCartoon01",
+    "id": 23,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.skull.cartoon.one",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_23_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Girl Love",
+    "id": 6,
+    "themeType": 200,
+    "resType": 1000,
+    "packageName": "",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_6_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Water Blur",
+    "id": 1,
+    "themeType": 100,
+    "resType": 1000,
+    "packageName": "",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_1_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Lock button2",
+    "id": 7,
+    "themeType": 200,
+    "resType": 1000,
+    "packageName": "",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_7_preview.png",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "SkullRealistic",
+    "id": 21,
+    "themeType": 100,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.skull.realistic",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_21_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "SkullCartoon",
+    "id": 24,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.skull.cartoon",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_24_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Sea",
+    "id": 9,
+    "themeType": 100,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.sea",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_9_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Kayak",
+    "id": 10,
+    "themeType": 100,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.kayak",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_10_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Beach",
+    "id": 11,
+    "themeType": 100,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.beach",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_11_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "SkullPattern",
+    "id": 22,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.skull.pattern",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_22_preview.jpg",
+    "isNew": true,
+	"isVideo": false
+  },
+  {
+    "name": "Seagulls",
+    "id": 12,
+    "themeType": 100,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.seagulls",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_12_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Jellyfish",
+    "id": 13,
+    "themeType": 100,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.jellyfish",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_13_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "SeaTurtles",
+    "id": 14,
+    "themeType": 100,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.seaturtles",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_14_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "SeaPattern",
+    "id": 16,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.sea.pattern",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_16_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "KayakPattern",
+    "id": 17,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.kayak.pattern",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_17_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Lock button",
+    "id": 5,
+    "themeType": 200,
+    "resType": 1000,
+    "packageName": "",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_5_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Easter",
+    "id": 18,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.easter",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_18_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Easter2",
+    "id": 19,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.easter.second",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_19_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Christmas",
+    "id": 8,
+    "themeType": 200,
+    "resType": 1000,
+    "packageName": "",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_8_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "SandGlass",
+    "id": 25,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.sandglass",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_25_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "ChristmasGift",
+    "id": 31,
+    "themeType": 200,
+    "resType": 2000,
+    "packageName": "com.alpha.applock.plugin.christmas.gift",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_31_preview.webp",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Default Pattern",
+    "id": 2,
+    "themeType": 200,
+    "resType": 1000,
+    "packageName": "",
+    "previewUrl": "http://www.sailinglabapps.com/res/pattern_2_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  },
+  {
+    "name": "Default Pin",
+    "id": 0,
+    "themeType": 100,
+    "resType": 1000,
+    "packageName": "",
+    "previewUrl": "http://www.sailinglabapps.com/res/pin_0_preview.jpg",
+    "isNew": false,
+	"isVideo": false
+  }
+]
